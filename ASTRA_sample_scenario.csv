@@ -1,0 +1,7 @@
+Timestamp,Heart Rate,Blood Pressure,SpO2,Temperature,Respiratory Rate
+09:00,72 bpm,118/78 mmHg,98%,36.7°C,14
+09:05,85 bpm,125/82 mmHg,97%,36.8°C,15
+09:10,105 bpm,145/95 mmHg,95%,37.0°C,18
+09:15,120 bpm,160/100 mmHg,93%,37.2°C,22
+09:20,,165/102 mmHg,92%,37.3°C,24
+09:25,131 bpm,170/104 mmHg,91%,98.9°F,25

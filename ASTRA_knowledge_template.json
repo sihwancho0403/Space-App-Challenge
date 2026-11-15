@@ -1,0 +1,21 @@
+{
+  "documents": [
+    {
+      "id": "nasa-hemorrhage-protocol",
+      "title": "Hemorrhage control protocol",
+      "category": "emergencyProtocol",
+      "evidence": "C",
+      "citation": "Full citation exactly as it appears in your source",
+      "url": "https://…",
+      "keywords": ["bleeding", "hemorrhage", "tourniquet", "pressure"],
+      "summary": "Two to four sentences summarizing what the source says.",
+      "guidance": ["Step the source recommends", "Next step"],
+      "contraindications": ["When the source says not to do this"],
+      "escalation": ["When the source says to escalate"]
+    }
+  ],
+  "supplies": [
+    { "id": "tq-1", "name": "Tourniquet", "category": "Hemorrhage control", "location": "Medical kit A", "quantity": 2, "authority": "crew" },
+    { "id": "epi-1", "name": "Epinephrine auto-injector", "category": "Medication", "location": "Medical kit B", "quantity": 2, "authority": "crewMedicalOfficer", "notes": "Dose per onboard protocol" }
+  ]
+}
